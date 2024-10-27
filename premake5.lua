@@ -1,5 +1,4 @@
-project "yaml-cpp"
-    group "Dependencies"
+project "Dependencies/yaml-cpp"
     kind "StaticLib"
     language "C++"
 	systemversion "latest"
